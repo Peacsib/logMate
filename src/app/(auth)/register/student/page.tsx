@@ -106,7 +106,7 @@ export default function RegisterStudentPage() {
   return (
     <div
       className="min-h-screen flex items-center justify-center p-4 md:p-8 relative bg-cover bg-center"
-      style={{ backgroundImage: "url(/register-student.png)" }}
+      style={{ backgroundImage: "url(/register-student1.webp)" }}
     >
       {/* Lighter overlay - easier to see background */}
       <div 

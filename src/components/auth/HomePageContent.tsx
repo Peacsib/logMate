@@ -101,7 +101,7 @@ export default function HomePage() {
         <div
           className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: "url('/register-student.webp')",
+            backgroundImage: "url('/register-student1.webp')",
           }}
         />
         
