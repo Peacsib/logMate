@@ -1,6 +1,6 @@
 ﻿"use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, type FormEventHandler } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
@@ -61,7 +61,7 @@ export default function RegisterStudentPage() {
     setStep(2);
   };
 
-  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+  const handleSubmit: FormEventHandler<HTMLFormElement> = async (e) => {
     e.preventDefault();
     const cleanReg = formData.regNumber.trim().toUpperCase();
     const cleanPrefix = emailPrefix.trim().toUpperCase();
@@ -239,7 +239,7 @@ export default function RegisterStudentPage() {
                     />
                     <p className="text-xs text-gray-600 font-medium mt-2 flex items-center gap-1.5">
                       <span className="inline-block w-1.5 h-1.5 rounded-full bg-[#ff8c00]" />
-                      Format: <strong className="text-gray-800 font-semibold">&lt;regNumber&gt;@uofzmail.uz.ac.zw</strong>
+                      <span>Format: <strong className="text-gray-800 font-semibold">&lt;regNumber&gt;@uofzmail.uz.ac.zw</strong></span>
                     </p>
                   </div>
 

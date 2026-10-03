@@ -1,0 +1,24 @@
+/* TEAM */
+
+Creator & Developer: Peace Sibanda
+LinkedIn: https://www.linkedin.com/in/peacesibanda/
+Facebook: https://www.facebook.com/profile.php?id=61576442701252
+Location: Zimbabwe
+
+/* THANKS */
+
+Built with passion and dedication to improve work-related learning experiences for students worldwide.
+
+/* SITE */
+
+Standards: HTML5, CSS3, JavaScript ES2024+
+Components: React, Next.js 15, TypeScript
+Styling: Tailwind CSS, Framer Motion
+Backend: Prisma ORM, PostgreSQL
+AI: Google Gemini AI
+Hosting: Vercel
+IDE: Kiro (AI-Powered Development Environment)
+
+Last update: 2026/10/02
+Language: English
+Doctype: HTML5

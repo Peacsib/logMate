@@ -1,5 +1,5 @@
 /**
- * Service Worker for WRL Connect
+ * Service Worker for LogMate
  * Implements offline-first caching strategy with Workbox
  */
 
@@ -86,7 +86,6 @@ self.addEventListener('install', (event) => {
         '/',
         '/index.html',
         '/manifest.json',
-        '/favicon.ico',
       ]);
     })
   );

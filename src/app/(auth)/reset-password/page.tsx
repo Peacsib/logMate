@@ -196,7 +196,7 @@ export default function ResetPasswordPage() {
   return (
     <div
       className="min-h-screen flex items-center justify-center p-4 md:p-8 relative bg-cover bg-center"
-      style={{ backgroundImage: "url(/homepage-background.webp)" }}
+      style={{ backgroundImage: "url(/register-student1.webp)" }}
     >
       <div className="absolute inset-0 bg-gradient-to-br from-[#001a33]/90 via-[#002147]/85 to-[#003d66]/90" />
 

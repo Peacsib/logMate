@@ -95,7 +95,7 @@ export default function HomePage() {
     <div 
       className="min-h-screen w-full relative overflow-x-hidden font-sans bg-cover bg-center"
       style={{
-        backgroundImage: "url('/hero-new1.webp')",
+        backgroundImage: "url('/hero-new.webp')",
       }}
     >
       {/* Split overlay - darker on left, lighter on right */}
@@ -341,6 +341,21 @@ export default function HomePage() {
           </div>
         </div>
       </div>
+      </div>
+
+      {/* Creator credit - Fixed at bottom right section only */}
+      <div className="fixed bottom-6 sm:bottom-8 md:bottom-10 right-0 w-full xl:w-[45%] text-center pointer-events-none z-50">
+        <p className="text-[8px] sm:text-[9px] md:text-[10px] lg:text-xs text-white/40 font-light">
+          Crafted with excellence by{" "}
+          <a 
+            href="https://www.linkedin.com/in/peacesibanda/" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="text-white/50 hover:text-white/70 transition-colors pointer-events-auto"
+          >
+            Peace Sibanda
+          </a>
+        </p>
       </div>
     </div>
   );

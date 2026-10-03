@@ -10,5 +10,32 @@ Allow: /
 User-agent: facebookexternalhit
 Allow: /
 
+# LogMate - Robots.txt
+# Creator: Peace Sibanda (https://www.linkedin.com/in/peacesibanda/)
+
+# Allow all bots to crawl
 User-agent: *
 Allow: /
+
+# Disallow admin and API routes
+Disallow: /api/
+Disallow: /admin/
+Disallow: /student/
+Disallow: /supervisor/
+Disallow: /lecturer/
+Disallow: /coordinator/
+
+# Allow public pages
+Allow: /$
+Allow: /login
+Allow: /register
+
+# Sitemap location
+Sitemap: https://logmate.vercel.app/sitemap.xml
+
+# Crawl-delay for aggressive bots
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
