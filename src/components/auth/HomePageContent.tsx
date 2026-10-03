@@ -92,37 +92,22 @@ export default function HomePage() {
   };
 
   return (
-    <div className="min-h-screen w-full flex flex-col xl:flex-row relative overflow-x-hidden font-sans">
+    <div 
+      className="min-h-screen w-full relative overflow-x-hidden font-sans bg-cover bg-center"
+      style={{
+        backgroundImage: "url('/hero-new1.webp')",
+      }}
+    >
+      {/* Split overlay - darker on left, lighter on right */}
+      <div className="absolute inset-0 bg-gradient-to-r from-[#001a33]/70 via-[#001a33]/50 xl:via-[#001a33]/50 to-transparent xl:to-50%" />
+      
+      <div className="relative z-10 min-h-screen flex flex-col xl:flex-row">
       {/* ========================================================= */}
-      {/* LEFT HERO PANEL - Enhanced with Better Overlay */}
+      {/* LEFT HERO PANEL - Content Only */}
       {/* ========================================================= */}
-      <div className="relative w-full xl:w-[55%] min-h-[350px] sm:min-h-[400px] xl:min-h-screen flex flex-col justify-between p-4 sm:p-6 lg:p-8 xl:p-10 overflow-hidden xl:border-r border-slate-900/10">
-        {/* Layer 0: Background Image */}
-        <div
-          className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat"
-          style={{
-            backgroundImage: "url('/register-student1.webp')",
-          }}
-        />
-        
-        {/* Enhanced Gradient Overlay - Deeper, More Sophisticated */}
-        <div 
-          className="absolute inset-0 z-[1]"
-          style={{
-            background: 'linear-gradient(135deg, rgba(0, 15, 40, 0.85) 0%, rgba(0, 33, 71, 0.75) 40%, rgba(15, 52, 96, 0.65) 100%)',
-          }}
-        />
-        
-        {/* Subtle Vignette Effect */}
-        <div 
-          className="absolute inset-0 z-[2]"
-          style={{
-            background: 'radial-gradient(ellipse at top left, transparent 0%, rgba(0, 0, 0, 0.15) 100%)',
-          }}
-        />
-
+      <div className="relative w-full xl:w-[55%] min-h-[350px] sm:min-h-[400px] xl:min-h-screen flex flex-col justify-between p-4 sm:p-6 lg:p-8 xl:p-10 xl:border-r-2 xl:border-white/40">
         {/* Top-Left LogMate Logo - Scales properly */}
-        <div className="relative z-10 flex items-center justify-between">
+        <div className="flex items-center justify-between">
           <Link href="/" className="inline-block group">
             <div className="h-7 sm:h-8 lg:h-9 2xl:h-12 w-auto relative flex items-center">
               <Image
@@ -138,7 +123,7 @@ export default function HomePage() {
         </div>
 
         {/* Center Typography - Properly scaled for all screens */}
-        <div className="relative z-10 pt-2 sm:pt-3 lg:pt-4 2xl:pt-6 pb-3 sm:pb-4 lg:pb-5 2xl:pb-6 max-w-xl 2xl:max-w-2xl space-y-1 sm:space-y-1.5 lg:space-y-2 2xl:space-y-4">
+        <div className="pt-2 sm:pt-3 lg:pt-4 2xl:pt-6 pb-3 sm:pb-4 lg:pb-5 2xl:pb-6 max-w-xl 2xl:max-w-2xl space-y-1 sm:space-y-1.5 lg:space-y-2 2xl:space-y-4">
           <h1 className="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-[2.5rem] font-light tracking-tight leading-[1.15] 2xl:leading-[1.2] text-white font-display">
             <span className="inline-block relative font-['Playfair_Display'] italic font-semibold text-[1.15em] text-[#ffa726] drop-shadow-[0_2px_20px_rgba(255,140,0,0.4)]" 
               style={{
@@ -170,7 +155,7 @@ export default function HomePage() {
         </div>
 
         {/* Bottom 4 Feature Cards - Subtle & Non-Distracting */}
-        <div className="relative z-10 grid grid-cols-2 lg:grid-cols-4 gap-1.5 sm:gap-2 pt-2 sm:pt-3">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-1.5 sm:gap-2 pt-2 sm:pt-3">
           {featureCards.map((card) => (
             <motion.div
               key={card.title}
@@ -199,15 +184,10 @@ export default function HomePage() {
       </div>
 
       {/* ========================================================= */}
-      {/* RIGHT AUTH PANEL (Twilight Navy Campus from hero-new - Untouched) */}
+      {/* RIGHT AUTH PANEL */}
       {/* ========================================================= */}
-      <div
-        className="relative w-full xl:w-[45%] min-h-screen flex flex-col items-center justify-center p-4 sm:p-6 md:p-8 xl:p-10 bg-cover bg-center xl:bg-right overflow-hidden"
-        style={{
-          backgroundImage: "url('/hero-new.webp')",
-        }}
-      >
-        {/* Auth Card - No Logo Duplication */}
+      <div className="relative w-full xl:w-[45%] min-h-screen flex flex-col items-center justify-center p-4 sm:p-6 md:p-8 xl:p-10">
+        {/* Auth Card */}
         {/* ========================================================= */}
         {/* THE ELEVATED AUTH CARD - Ultra Clean Design */}
         {/* ========================================================= */}
@@ -360,6 +340,7 @@ export default function HomePage() {
             </p>
           </div>
         </div>
+      </div>
       </div>
     </div>
   );
