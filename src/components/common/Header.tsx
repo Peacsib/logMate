@@ -11,7 +11,7 @@ import { Button } from "@/components/ui/button";
 import { useTheme } from "next-themes";
 
 interface Props {
-  onMenuToggle?: () => void;
+  readonly onMenuToggle?: () => void;
 }
 
 export function Header({ onMenuToggle }: Props) {
@@ -27,12 +27,13 @@ export function Header({ onMenuToggle }: Props) {
 
   const handleLogout = () => {
     logout();
-    router.push("/login");
+    void router.push("/login");
   };
 
   // Determine which logo to use based on theme
   const currentTheme = mounted ? (theme === "system" ? resolvedTheme : theme) : "light";
-  const logoSrc = currentTheme === "dark" ? "/logMate-logo.webp" : "/logMate-logo-dark.webp";
+  const isDarkMode = currentTheme === "dark";
+  const logoSrc = isDarkMode ? "/logMate-logo.webp" : "/logMate-logo-dark.webp";
 
   return (
     <header className="h-14 border-b bg-card flex items-center justify-between px-4 sticky top-0 z-30">

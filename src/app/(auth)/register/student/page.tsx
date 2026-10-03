@@ -15,7 +15,7 @@ import { ElegantText } from "@/components/ui/elegant-text";
 
 export default function RegisterStudentPage() {
   const router = useRouter();
-  const { data: programmes } = useProgrammes();
+  useProgrammes(); // Load programmes data
 
   const [step, setStep] = useState<1 | 2>(1);
   const [showPassword, setShowPassword] = useState(false);
@@ -61,7 +61,7 @@ export default function RegisterStudentPage() {
     setStep(2);
   };
 
-  const handleSubmit = async (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     const cleanReg = formData.regNumber.trim().toUpperCase();
     const cleanPrefix = emailPrefix.trim().toUpperCase();
@@ -95,8 +95,9 @@ export default function RegisterStudentPage() {
       setTimeout(() => {
         router.push(`/login?email=${encodeURIComponent(registeredEmail)}&registered=true&cube=1`);
       }, 480);
-    } catch (err: any) {
-      toast.error(err.message || "Registration failed. Please check your details.");
+    } catch (err) {
+      const error = err as Error;
+      toast.error(error.message || "Registration failed. Please check your details.");
     } finally {
       setLoading(false);
     }
