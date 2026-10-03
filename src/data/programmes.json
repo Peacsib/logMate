@@ -1,0 +1,1550 @@
+[
+  {
+    "id": 1090,
+    "name": "Aeronautical Engineering (Aviation Mechanics)",
+    "code": "AEROM",
+    "department_id": 159
+  },
+  {
+    "id": 1051,
+    "name": "Aeronautical Engineering (Avionics)",
+    "code": "AEROV",
+    "department_id": 159
+  },
+  {
+    "id": 242,
+    "name": "Architecture",
+    "code": "BARCH",
+    "department_id": 163
+  },
+  {
+    "id": 166,
+    "name": "BA Honours African Heritage and Knowledge Systems",
+    "code": "HAHKS",
+    "department_id": 145
+  },
+  {
+    "id": 160,
+    "name": "BA Honours African Musicology",
+    "code": "HBAM",
+    "department_id": 141
+  },
+  {
+    "id": 167,
+    "name": "BA Honours Archaeological Sciences and Human Development",
+    "code": "HASHD",
+    "department_id": 148
+  },
+  {
+    "id": 176,
+    "name": "BA Honours Conflict Peace Building and Social Transformation",
+    "code": "HCPST",
+    "department_id": 144
+  },
+  {
+    "id": 172,
+    "name": "BA Honours Creative Designs, Animation and Motion Graphics",
+    "code": "HCDA",
+    "department_id": 143
+  },
+  {
+    "id": 168,
+    "name": "BA Honours Digital Archival and Historical Information Management",
+    "code": "DAH",
+    "department_id": 145
+  },
+  {
+    "id": 157,
+    "name": "BA Honours Film Radio and Television Production",
+    "code": "HFTRP",
+    "department_id": 143
+  },
+  {
+    "id": 174,
+    "name": "BA Honours Fine Arts",
+    "code": "HFA",
+    "department_id": 143
+  },
+  {
+    "id": 170,
+    "name": "BA Honours Heritage and Economic History",
+    "code": "BAHEH",
+    "department_id": 145
+  },
+  {
+    "id": 171,
+    "name": "BA Honours History of War and Security",
+    "code": "HHWS",
+    "department_id": 145
+  },
+  {
+    "id": 173,
+    "name": "BA Honours Journalism, Media and Broadcasting",
+    "code": "HJMB",
+    "department_id": 143
+  },
+  {
+    "id": 161,
+    "name": "BA Honours Language Literature and Intercultural Communication",
+    "code": "HLLIE",
+    "department_id": 146
+  },
+  {
+    "id": 159,
+    "name": "BA Honours Media and Marketing Communication",
+    "code": "HMMC",
+    "department_id": 143
+  },
+  {
+    "id": 158,
+    "name": "BA Honours Multi - Media Production",
+    "code": "HMMP",
+    "department_id": 143
+  },
+  {
+    "id": 163,
+    "name": "BA Honours Multicultural Heritage and Tourism",
+    "code": "HMHT",
+    "department_id": 145
+  },
+  {
+    "id": 162,
+    "name": "BA Honours Multilingual Communication Translation and Interpretation",
+    "code": "HMCTI",
+    "department_id": 146
+  },
+  {
+    "id": 164,
+    "name": "BA Honours Philosophy Ethics and Human Development",
+    "code": "HPEHD",
+    "department_id": 148
+  },
+  {
+    "id": 165,
+    "name": "BA Honours Religion Leadership and Society",
+    "code": "HRLDS",
+    "department_id": 148
+  },
+  {
+    "id": 177,
+    "name": "BA Honours Risk Reduction and Disaster Management",
+    "code": "HRRDM",
+    "department_id": 144
+  },
+  {
+    "id": 175,
+    "name": "BA Honours Visual and Performing Arts",
+    "code": "HVPA",
+    "department_id": 143
+  },
+  {
+    "id": 169,
+    "name": "BA Honours Zimbabwean History and International Affairs",
+    "code": "HIA",
+    "department_id": 145
+  },
+  {
+    "id": 430,
+    "name": "Bachelor of Dental Surgery",
+    "code": "BDS",
+    "department_id": 166
+  },
+  {
+    "id": 563,
+    "name": "Bachelor of Education Honours Curriculum Design and Instructional Materials Production",
+    "code": "BEHCIMP",
+    "department_id": 155
+  },
+  {
+    "id": 661,
+    "name": "Bachelor of Education Honours Design and Technology",
+    "code": "HADTE",
+    "department_id": 155
+  },
+  {
+    "id": 481,
+    "name": "Bachelor of Education Honours Development and Management of Early Childhood Schools",
+    "code": "HDMES",
+    "department_id": 154
+  },
+  {
+    "id": 463,
+    "name": "Bachelor of Education Honours Development and Management of Junior Education Schools",
+    "code": "HDMJES",
+    "department_id": 154
+  },
+  {
+    "id": 500,
+    "name": "Bachelor of Education Honours Early Childhood Development and Social Policy",
+    "code": "HEDSP",
+    "department_id": 154
+  },
+  {
+    "id": 446,
+    "name": "Bachelor of Education Honours Junior Education",
+    "code": "BEDHJE",
+    "department_id": 154
+  },
+  {
+    "id": 586,
+    "name": "Bachelor of Education Honours Leadership and Governance",
+    "code": "BEHLG",
+    "department_id": 154
+  },
+  {
+    "id": 610,
+    "name": "Bachelor of Education Honours Materials Production",
+    "code": "HMP",
+    "department_id": 155
+  },
+  {
+    "id": 635,
+    "name": "Bachelor of Education Honours Performing Arts and Heritage Education",
+    "code": "HPAHE",
+    "department_id": 156
+  },
+  {
+    "id": 520,
+    "name": "Bachelor of Education Honours Special Needs and Assistive Technologies",
+    "code": "BEHSNAT",
+    "department_id": 154
+  },
+  {
+    "id": 1391,
+    "name": "Bachelor of Laws Honours",
+    "code": "LLBS",
+    "department_id": 165
+  },
+  {
+    "id": 415,
+    "name": "Bachelor of Medicine and Bachelor of Surgery",
+    "code": "MBChB",
+    "department_id": 166
+  },
+  {
+    "id": 320,
+    "name": "Bachelor of Pharmacy Honours",
+    "code": "HPM",
+    "department_id": 169
+  },
+  {
+    "id": 541,
+    "name": "Bachelor of Science Honours Psycho - Social Guidance and Counselling",
+    "code": "BSHBC",
+    "department_id": 155
+  },
+  {
+    "id": 1438,
+    "name": "Bachelor of Substantive Laws",
+    "code": "LLBSS",
+    "department_id": 165
+  },
+  {
+    "id": 310,
+    "name": "Bachelor of Veterinary Science",
+    "code": "BVSc",
+    "department_id": 190
+  },
+  {
+    "id": 262,
+    "name": "BDS Honours",
+    "code": "BDSCHIR",
+    "department_id": 175
+  },
+  {
+    "id": 221,
+    "name": "BEd Honours Adult and Lifelong Education",
+    "code": "HALE",
+    "department_id": 154
+  },
+  {
+    "id": 210,
+    "name": "BEd Honours Development and Management of Junior Education Systems",
+    "code": "HDMJES",
+    "department_id": 154
+  },
+  {
+    "id": 219,
+    "name": "BEd Honours Guidance and Counselling Education",
+    "code": "HGCE",
+    "department_id": 154
+  },
+  {
+    "id": 209,
+    "name": "BEd Honours Junior Education",
+    "code": "BEDHJE",
+    "department_id": 154
+  },
+  {
+    "id": 213,
+    "name": "BEd Honours Secondary Computer Science",
+    "code": "BEHSCOMP",
+    "department_id": 155
+  },
+  {
+    "id": 214,
+    "name": "BEd Honours Secondary English",
+    "code": "BEHSENG",
+    "department_id": 175
+  },
+  {
+    "id": 216,
+    "name": "BEd Honours Secondary Geography",
+    "code": "BEHSGEOG",
+    "department_id": 178
+  },
+  {
+    "id": 215,
+    "name": "BEd Honours Secondary History",
+    "code": "BEHSHIST",
+    "department_id": 145
+  },
+  {
+    "id": 212,
+    "name": "BEd Honours Secondary Mathematics",
+    "code": "BEHSMATH",
+    "department_id": 180
+  },
+  {
+    "id": 211,
+    "name": "BEd Honours Secondary Natural Sciences",
+    "code": "BEHSNAT",
+    "department_id": 155
+  },
+  {
+    "id": 218,
+    "name": "BEd Honours Secondary Ndebele",
+    "code": "BEHSNDEB",
+    "department_id": 175
+  },
+  {
+    "id": 217,
+    "name": "BEd Honours Secondary Shona",
+    "code": "BEHSSHONA",
+    "department_id": 175
+  },
+  {
+    "id": 220,
+    "name": "BEd Honours Special Needs Education",
+    "code": "HSNE",
+    "department_id": 154
+  },
+  {
+    "id": 229,
+    "name": "BEng Honours Aeronautical Engineering",
+    "code": "AERO",
+    "department_id": 159
+  },
+  {
+    "id": 228,
+    "name": "BEng Honours Automotive Engineering",
+    "code": "AUTO",
+    "department_id": 159
+  },
+  {
+    "id": 237,
+    "name": "BEng Honours Biochemical Engineering",
+    "code": "HENBIOCHEM",
+    "department_id": 160
+  },
+  {
+    "id": 235,
+    "name": "BEng Honours Chemical Engineering",
+    "code": "HENCHEM",
+    "department_id": 160
+  },
+  {
+    "id": 222,
+    "name": "BEng Honours Civil Engineering",
+    "code": "HENCENG",
+    "department_id": 157
+  },
+  {
+    "id": 232,
+    "name": "BEng Honours Electrical Engineering",
+    "code": "HENELEC",
+    "department_id": 158
+  },
+  {
+    "id": 226,
+    "name": "BEng Honours Geotechnical Engineering",
+    "code": "HENGEOTECH",
+    "department_id": 157
+  },
+  {
+    "id": 230,
+    "name": "BEng Honours Manufacturing Engineering",
+    "code": "HENMFG",
+    "department_id": 157
+  },
+  {
+    "id": 241,
+    "name": "BEng Honours Materials Engineering",
+    "code": "HENMAT",
+    "department_id": 162
+  },
+  {
+    "id": 227,
+    "name": "BEng Honours Mechanical Engineering",
+    "code": "HENMECH",
+    "department_id": 159
+  },
+  {
+    "id": 240,
+    "name": "BEng Honours Metallurgical Engineering",
+    "code": "HENMET",
+    "department_id": 162
+  },
+  {
+    "id": 239,
+    "name": "BEng Honours Mineral Processing Engineering",
+    "code": "HENMINERAL",
+    "department_id": 157
+  },
+  {
+    "id": 238,
+    "name": "BEng Honours Mining Engineering",
+    "code": "HENMINE",
+    "department_id": 161
+  },
+  {
+    "id": 233,
+    "name": "BEng Honours Power Systems Engineering",
+    "code": "HENPOWER",
+    "department_id": 158
+  },
+  {
+    "id": 236,
+    "name": "BEng Honours Process Engineering",
+    "code": "HENPROC",
+    "department_id": 157
+  },
+  {
+    "id": 234,
+    "name": "BEng Honours Renewable Energy Engineering",
+    "code": "HENRENEW",
+    "department_id": 158
+  },
+  {
+    "id": 223,
+    "name": "BEng Honours Structural Engineering",
+    "code": "HENSTRUCT",
+    "department_id": 157
+  },
+  {
+    "id": 231,
+    "name": "BEng Honours Thermal Power Engineering",
+    "code": "HENTHERM",
+    "department_id": 158
+  },
+  {
+    "id": 225,
+    "name": "BEng Honours Transportation Engineering",
+    "code": "HENTRANS",
+    "department_id": 163
+  },
+  {
+    "id": 224,
+    "name": "BEng Honours Water Resources Engineering",
+    "code": "HENWRE",
+    "department_id": 157
+  },
+  {
+    "id": 257,
+    "name": "BPharm Honours",
+    "code": "HPHARM",
+    "department_id": 166
+  },
+  {
+    "id": 2080,
+    "name": "BSc Applied Statistics",
+    "code": "HASTS",
+    "department_id": 182
+  },
+  {
+    "id": 192,
+    "name": "BSc Digital Banking",
+    "code": "HDBANK",
+    "department_id": 150
+  },
+  {
+    "id": 2390,
+    "name": "BSc Digital Disease Surveillance and Environmental Health",
+    "code": "HDDSEH",
+    "department_id": 175
+  },
+  {
+    "id": 2455,
+    "name": "BSc Geography and Landscape Ecology",
+    "code": "HGLE",
+    "department_id": 175
+  },
+  {
+    "id": 180,
+    "name": "BSc Honours Accounting and Finance",
+    "code": "HACCN",
+    "department_id": 149
+  },
+  {
+    "id": 290,
+    "name": "BSc Honours Actuarial Science",
+    "code": "HASC",
+    "department_id": 180
+  },
+  {
+    "id": 150,
+    "name": "BSc Honours Agricultural and Environmental Monitoring Systems",
+    "code": "HAEMS",
+    "department_id": 140
+  },
+  {
+    "id": 139,
+    "name": "BSc Honours Agricultural and Natural Resource Economics",
+    "code": "HANRE",
+    "department_id": 140
+  },
+  {
+    "id": 138,
+    "name": "BSc Honours Agricultural Development and Communication Systems",
+    "code": "HDCS",
+    "department_id": 140
+  },
+  {
+    "id": 153,
+    "name": "BSc Honours Agricultural Equipment Design and Manufacturing Systems",
+    "code": "HAEDMS",
+    "department_id": 139
+  },
+  {
+    "id": 140,
+    "name": "BSc Honours Agricultural Informatics",
+    "code": "HAGI",
+    "department_id": 140
+  },
+  {
+    "id": 156,
+    "name": "BSc Honours Agricultural Processing Plant Design and Systems Engineering",
+    "code": "HAPPDSE",
+    "department_id": 137
+  },
+  {
+    "id": 272,
+    "name": "BSc Honours Analytical Chemistry",
+    "code": "HANALCHEM",
+    "department_id": 176
+  },
+  {
+    "id": 3011,
+    "name": "BSc Honours Anthropology and Cultural Heritage",
+    "code": "HUCH",
+    "department_id": 185
+  },
+  {
+    "id": 276,
+    "name": "BSc Honours Applied Computing",
+    "code": "HCOMSCI",
+    "department_id": 177
+  },
+  {
+    "id": 152,
+    "name": "BSc Honours Applied Environmental Sciences and Technology",
+    "code": "HAEST",
+    "department_id": 140
+  },
+  {
+    "id": 284,
+    "name": "BSc Honours Applied Mathematics",
+    "code": "HAPPMATH",
+    "department_id": 180
+  },
+  {
+    "id": 287,
+    "name": "BSc Honours Applied Physics",
+    "code": "HAPPPHYS",
+    "department_id": 181
+  },
+  {
+    "id": 1636,
+    "name": "BSc Honours Aquatic Science and Ecology",
+    "code": "HASE",
+    "department_id": 175
+  },
+  {
+    "id": 313,
+    "name": "BSc Honours Artificial Intelligence and Machine Learning",
+    "code": "HAI",
+    "department_id": 153
+  },
+  {
+    "id": 205,
+    "name": "BSc Honours Artificial Intelligence Systems",
+    "code": "HAIS",
+    "department_id": 153
+  },
+  {
+    "id": 247,
+    "name": "BSc Honours Audiology",
+    "code": "HAUD",
+    "department_id": 172
+  },
+  {
+    "id": 183,
+    "name": "BSc Honours Audit and Risk Management",
+    "code": "HARMGT",
+    "department_id": 149
+  },
+  {
+    "id": 1013,
+    "name": "BSc Honours Automotive Engineering",
+    "code": "AUTO",
+    "department_id": 159
+  },
+  {
+    "id": 263,
+    "name": "BSc Honours Biochemistry and Biomedicine",
+    "code": "HBCBM",
+    "department_id": 166
+  },
+  {
+    "id": 264,
+    "name": "BSc Honours Biochemistry and Biotechnology",
+    "code": "HBCBT",
+    "department_id": 174
+  },
+  {
+    "id": 265,
+    "name": "BSc Honours Biochemistry and Food Science",
+    "code": "HBCFD",
+    "department_id": 174
+  },
+  {
+    "id": 1535,
+    "name": "BSc Honours Biodiversity and Heritage Conservation",
+    "code": "HBHC",
+    "department_id": 175
+  },
+  {
+    "id": 266,
+    "name": "BSc Honours Biological Sciences",
+    "code": "BZHSC",
+    "department_id": 175
+  },
+  {
+    "id": 256,
+    "name": "BSc Honours Biomedical Sciences",
+    "code": "HBMS",
+    "department_id": 166
+  },
+  {
+    "id": 267,
+    "name": "BSc Honours Biotechnology",
+    "code": "HBIOTECH",
+    "department_id": 175
+  },
+  {
+    "id": 196,
+    "name": "BSc Honours Business and Industrial Economics",
+    "code": "HBIE",
+    "department_id": 150
+  },
+  {
+    "id": 188,
+    "name": "BSc Honours Business Enterprise Development",
+    "code": "HBED",
+    "department_id": 150
+  },
+  {
+    "id": 206,
+    "name": "BSc Honours Business Information Systems",
+    "code": "HBIS",
+    "department_id": 153
+  },
+  {
+    "id": 190,
+    "name": "BSc Honours Business Management Systems Design and Applications",
+    "code": "HBMSDA",
+    "department_id": 150
+  },
+  {
+    "id": 191,
+    "name": "BSc Honours Business Marketing Informatics",
+    "code": "HBMI",
+    "department_id": 150
+  },
+  {
+    "id": 271,
+    "name": "BSc Honours Chemistry",
+    "code": "MCH",
+    "department_id": 176
+  },
+  {
+    "id": 3470,
+    "name": "BSc Honours Child Development and Psychology",
+    "code": "HCDP",
+    "department_id": 184
+  },
+  {
+    "id": 688,
+    "name": "BSc Honours Civil Engineering",
+    "code": "HENCENG",
+    "department_id": 157
+  },
+  {
+    "id": 279,
+    "name": "BSc Honours Climate Science and Meteorology",
+    "code": "HMCS",
+    "department_id": 181
+  },
+  {
+    "id": 151,
+    "name": "BSc Honours Climate Science Resilience and Livelihoods",
+    "code": "HCSRL",
+    "department_id": 140
+  },
+  {
+    "id": 325,
+    "name": "BSc Honours Clinical Pharmacology",
+    "code": "HCP",
+    "department_id": 166
+  },
+  {
+    "id": 249,
+    "name": "BSc Honours Clinical Psychology",
+    "code": "HCP",
+    "department_id": 166
+  },
+  {
+    "id": 316,
+    "name": "BSc Honours Cloud Computing and Internet of Things",
+    "code": "HCC",
+    "department_id": 153
+  },
+  {
+    "id": 300,
+    "name": "BSc Honours Community Development",
+    "code": "HCOMMDEV",
+    "department_id": 175
+  },
+  {
+    "id": 3160,
+    "name": "BSc Honours Community Education and Lifelong Learning",
+    "code": "BCLL",
+    "department_id": 185
+  },
+  {
+    "id": 198,
+    "name": "BSc Honours Computational Economics",
+    "code": "HCOE",
+    "department_id": 150
+  },
+  {
+    "id": 200,
+    "name": "BSc Honours Computer Engineering",
+    "code": "HCE",
+    "department_id": 153
+  },
+  {
+    "id": 275,
+    "name": "BSc Honours Computer Science",
+    "code": "HCS",
+    "department_id": 153
+  },
+  {
+    "id": 716,
+    "name": "BSc Honours Construction Engineering and Quantity Surveying",
+    "code": "HENCEQS",
+    "department_id": 163
+  },
+  {
+    "id": 295,
+    "name": "BSc Honours Counselling Psychology",
+    "code": "HCOUNSEL",
+    "department_id": 184
+  },
+  {
+    "id": 3085,
+    "name": "BSc Honours Criminology and Society",
+    "code": "HCRIM",
+    "department_id": 185
+  },
+  {
+    "id": 143,
+    "name": "BSc Honours Crop Improvement and Seed Systems",
+    "code": "HCISS",
+    "department_id": 137
+  },
+  {
+    "id": 185,
+    "name": "BSc Honours Culinary Arts and Hotel Catering",
+    "code": "HCAHC",
+    "department_id": 151
+  },
+  {
+    "id": 203,
+    "name": "BSc Honours Cyber Security and Forensic Auditing",
+    "code": "HCF",
+    "department_id": 153
+  },
+  {
+    "id": 202,
+    "name": "BSc Honours Data Science and Informatics",
+    "code": "HDS",
+    "department_id": 153
+  },
+  {
+    "id": 2021,
+    "name": "BSc Honours Data Science and Systems",
+    "code": "HDSC",
+    "department_id": 180
+  },
+  {
+    "id": 303,
+    "name": "BSc Honours Demography and Population Studies",
+    "code": "HDEMOG",
+    "department_id": 175
+  },
+  {
+    "id": 297,
+    "name": "BSc Honours Development Studies",
+    "code": "HDEVSTUD",
+    "department_id": 175
+  },
+  {
+    "id": 3550,
+    "name": "BSc Honours Developmental Psychology",
+    "code": "HDP",
+    "department_id": 184
+  },
+  {
+    "id": 258,
+    "name": "BSc Honours Diagnostic Radiography",
+    "code": "HRAD",
+    "department_id": 175
+  },
+  {
+    "id": 306,
+    "name": "BSc Honours Digital Media and Communication",
+    "code": "HDIGMEDIA",
+    "department_id": 175
+  },
+  {
+    "id": 270,
+    "name": "BSc Honours Ecology and Conservation Biology",
+    "code": "HECOL",
+    "department_id": 175
+  },
+  {
+    "id": 186,
+    "name": "BSc Honours Economic Tourism Development",
+    "code": "HETD",
+    "department_id": 151
+  },
+  {
+    "id": 195,
+    "name": "BSc Honours Economics and Development",
+    "code": "HECD",
+    "department_id": 150
+  },
+  {
+    "id": 940,
+    "name": "BSc Honours Electrical and Electronic Engineering",
+    "code": "HENELENG",
+    "department_id": 158
+  },
+  {
+    "id": 199,
+    "name": "BSc Honours Electronics and Telecommunications Engineering",
+    "code": "HET",
+    "department_id": 153
+  },
+  {
+    "id": 976,
+    "name": "BSc Honours Energy and Power Systems Engineering",
+    "code": "HENPENG",
+    "department_id": 158
+  },
+  {
+    "id": 260,
+    "name": "BSc Honours Environmental Health",
+    "code": "HENVH",
+    "department_id": 175
+  },
+  {
+    "id": 278,
+    "name": "BSc Honours Environmental Science",
+    "code": "HENVSC",
+    "department_id": 175
+  },
+  {
+    "id": 281,
+    "name": "BSc Honours Exploration Geology",
+    "code": "HEXPGEOL",
+    "department_id": 179
+  },
+  {
+    "id": 181,
+    "name": "BSc Honours Financial and Accounting Systems Development and Applications",
+    "code": "HFCSDA",
+    "department_id": 149
+  },
+  {
+    "id": 197,
+    "name": "BSc Honours Financial Economics and Trade",
+    "code": "HFET",
+    "department_id": 150
+  },
+  {
+    "id": 285,
+    "name": "BSc Honours Financial Mathematics",
+    "code": "HFM",
+    "department_id": 180
+  },
+  {
+    "id": 182,
+    "name": "BSc Honours Fiscal Management",
+    "code": "HFISMGT",
+    "department_id": 149
+  },
+  {
+    "id": 154,
+    "name": "BSc Honours Food Engineering",
+    "code": "HFE",
+    "department_id": 139
+  },
+  {
+    "id": 2201,
+    "name": "BSc Honours Food Science and Technology",
+    "code": "HFST",
+    "department_id": 175
+  },
+  {
+    "id": 179,
+    "name": "BSc Honours Forensic Accounting",
+    "code": "HFORACC",
+    "department_id": 149
+  },
+  {
+    "id": 3631,
+    "name": "BSc Honours Forensic Psychology and Criminology",
+    "code": "HCRIM",
+    "department_id": 184
+  },
+  {
+    "id": 1688,
+    "name": "BSc Honours Forensic Science",
+    "code": "HFSSC",
+    "department_id": 176
+  },
+  {
+    "id": 1486,
+    "name": "BSc Honours Forestry Rangeland and Wildlife Ecology",
+    "code": "HFRWE",
+    "department_id": 175
+  },
+  {
+    "id": 298,
+    "name": "BSc Honours Gender Studies",
+    "code": "HGENDSTUD",
+    "department_id": 175
+  },
+  {
+    "id": 268,
+    "name": "BSc Honours Genetics",
+    "code": "HGENET",
+    "department_id": 175
+  },
+  {
+    "id": 208,
+    "name": "BSc Honours Geographic Information Systems",
+    "code": "HGIS",
+    "department_id": 153
+  },
+  {
+    "id": 1906,
+    "name": "BSc Honours Geographical Information Science and Earth Observation",
+    "code": "HGISEO",
+    "department_id": 178
+  },
+  {
+    "id": 277,
+    "name": "BSc Honours Geography",
+    "code": "HGEOG",
+    "department_id": 178
+  },
+  {
+    "id": 1795,
+    "name": "BSc Honours Geological Sciences",
+    "code": "HGL",
+    "department_id": 179
+  },
+  {
+    "id": 280,
+    "name": "BSc Honours Geology",
+    "code": "HGEOL",
+    "department_id": 179
+  },
+  {
+    "id": 1963,
+    "name": "BSc Honours Geospatial Intelligence",
+    "code": "HGISINT",
+    "department_id": 178
+  },
+  {
+    "id": 291,
+    "name": "BSc Honours Governance and Public Management",
+    "code": "GPM",
+    "department_id": 183
+  },
+  {
+    "id": 2588,
+    "name": "BSc Honours Government and Public Management",
+    "code": "GPM",
+    "department_id": 183
+  },
+  {
+    "id": 311,
+    "name": "BSc Honours Hardware Engineering",
+    "code": "HHE",
+    "department_id": 153
+  },
+  {
+    "id": 142,
+    "name": "BSc Honours Horticulture and Plantation Sciences",
+    "code": "HHPS",
+    "department_id": 137
+  },
+  {
+    "id": 189,
+    "name": "BSc Honours Human Capital Development Science",
+    "code": "HCM",
+    "department_id": 150
+  },
+  {
+    "id": 3236,
+    "name": "BSc Honours Human Settlement Spatiality and Mobility",
+    "code": "HSSM",
+    "department_id": 188
+  },
+  {
+    "id": 282,
+    "name": "BSc Honours Hydrogeology",
+    "code": "HHYDROGEOL",
+    "department_id": 179
+  },
+  {
+    "id": 273,
+    "name": "BSc Honours Industrial Chemistry",
+    "code": "HICH",
+    "department_id": 176
+  },
+  {
+    "id": 2326,
+    "name": "BSc Honours Industrial Physics",
+    "code": "HIPH",
+    "department_id": 181
+  },
+  {
+    "id": 2866,
+    "name": "BSc Honours Industrial Sociology",
+    "code": "HISO",
+    "department_id": 185
+  },
+  {
+    "id": 187,
+    "name": "BSc Honours Integrated Tourism Marketing and Internationalisation",
+    "code": "HITMI",
+    "department_id": 151
+  },
+  {
+    "id": 293,
+    "name": "BSc Honours International Relations",
+    "code": "HINTREL",
+    "department_id": 175
+  },
+  {
+    "id": 401,
+    "name": "BSc Honours Language and Speech Therapy",
+    "code": "HSLT",
+    "department_id": 167
+  },
+  {
+    "id": 184,
+    "name": "BSc Honours Leisure and Hospitality Management",
+    "code": "HLHM",
+    "department_id": 151
+  },
+  {
+    "id": 301,
+    "name": "BSc Honours Library and Information Science",
+    "code": "HLIS",
+    "department_id": 175
+  },
+  {
+    "id": 145,
+    "name": "BSc Honours Livestock Improvement and Genetic Conservation",
+    "code": "HLIGC",
+    "department_id": 138
+  },
+  {
+    "id": 144,
+    "name": "BSc Honours Livestock Production and Nutrition Sciences",
+    "code": "HLPNS",
+    "department_id": 138
+  },
+  {
+    "id": 207,
+    "name": "BSc Honours Management Information Systems",
+    "code": "HMIS",
+    "department_id": 153
+  },
+  {
+    "id": 2521,
+    "name": "BSc Honours Materials Science",
+    "code": "HMS",
+    "department_id": 181
+  },
+  {
+    "id": 775,
+    "name": "BSc Honours Materials Technology and Engineering",
+    "code": "HMTE",
+    "department_id": 162
+  },
+  {
+    "id": 283,
+    "name": "BSc Honours Mathematics and Computational Science",
+    "code": "MCH",
+    "department_id": 180
+  },
+  {
+    "id": 147,
+    "name": "BSc Honours Meat and Dairy Sciences and Technology",
+    "code": "HMDST",
+    "department_id": 138
+  },
+  {
+    "id": 838,
+    "name": "BSc Honours Mechanical Engineering",
+    "code": "HENMECH",
+    "department_id": 159
+  },
+  {
+    "id": 905,
+    "name": "BSc Honours Mechatronics",
+    "code": "HENMTR",
+    "department_id": 158
+  },
+  {
+    "id": 305,
+    "name": "BSc Honours Media Studies",
+    "code": "HMEDIA",
+    "department_id": 175
+  },
+  {
+    "id": 255,
+    "name": "BSc Honours Medical Laboratory Sciences",
+    "code": "HMLS",
+    "department_id": 170
+  },
+  {
+    "id": 288,
+    "name": "BSc Honours Medical Physics",
+    "code": "HMPH",
+    "department_id": 181
+  },
+  {
+    "id": 274,
+    "name": "BSc Honours Medicinal Chemistry",
+    "code": "HMEDCHEM",
+    "department_id": 176
+  },
+  {
+    "id": 806,
+    "name": "BSc Honours Metallurgical Engineering",
+    "code": "HMET",
+    "department_id": 162
+  },
+  {
+    "id": 269,
+    "name": "BSc Honours Microbiology",
+    "code": "HMICRO",
+    "department_id": 175
+  },
+  {
+    "id": 254,
+    "name": "BSc Honours Midwifery",
+    "code": "HMIDW",
+    "department_id": 175
+  },
+  {
+    "id": 745,
+    "name": "BSc Honours Mining and Geological Engineering",
+    "code": "HMIE",
+    "department_id": 161
+  },
+  {
+    "id": 201,
+    "name": "BSc Honours Network Engineering",
+    "code": "HNE",
+    "department_id": 153
+  },
+  {
+    "id": 253,
+    "name": "BSc Honours Nursing Science",
+    "code": "HNURS",
+    "department_id": 168
+  },
+  {
+    "id": 2140,
+    "name": "BSc Honours Nutrition and Dietetics",
+    "code": "HND",
+    "department_id": 175
+  },
+  {
+    "id": 338,
+    "name": "BSc Honours Occupational and Environmental Health",
+    "code": "HOE",
+    "department_id": 166
+  },
+  {
+    "id": 251,
+    "name": "BSc Honours Occupational Therapy",
+    "code": "HOT",
+    "department_id": 167
+  },
+  {
+    "id": 376,
+    "name": "BSc Honours Optometry",
+    "code": "BSHO",
+    "department_id": 172
+  },
+  {
+    "id": 3391,
+    "name": "BSc Honours Organisational and Industrial Psychology",
+    "code": "HIOP",
+    "department_id": 184
+  },
+  {
+    "id": 1850,
+    "name": "BSc Honours Petroleum Chemistry and Technology",
+    "code": "HPCT",
+    "department_id": 176
+  },
+  {
+    "id": 1741,
+    "name": "BSc Honours Pharmaceutical Chemistry",
+    "code": "HPHC",
+    "department_id": 176
+  },
+  {
+    "id": 286,
+    "name": "BSc Honours Physics",
+    "code": "HPHYS",
+    "department_id": 181
+  },
+  {
+    "id": 250,
+    "name": "BSc Honours Physiotherapy",
+    "code": "HPT",
+    "department_id": 167
+  },
+  {
+    "id": 141,
+    "name": "BSc Honours Plant Production Science & Technology",
+    "code": "HPPST",
+    "department_id": 137
+  },
+  {
+    "id": 2656,
+    "name": "BSc Honours Political Science and Diplomacy",
+    "code": "POSD",
+    "department_id": 183
+  },
+  {
+    "id": 292,
+    "name": "BSc Honours Politics and Sustainable Development",
+    "code": "POSD",
+    "department_id": 183
+  },
+  {
+    "id": 1585,
+    "name": "BSc Honours Pollution and Environmental Chemistry",
+    "code": "HPEC",
+    "department_id": 176
+  },
+  {
+    "id": 304,
+    "name": "BSc Honours Population and Health",
+    "code": "HPOPHEALTH",
+    "department_id": 175
+  },
+  {
+    "id": 3313,
+    "name": "BSc Honours Population Science and Applied Demography",
+    "code": "HPSAD",
+    "department_id": 188
+  },
+  {
+    "id": 248,
+    "name": "BSc Honours Prosthetics and Orthotics",
+    "code": "HPO",
+    "department_id": 167
+  },
+  {
+    "id": 294,
+    "name": "BSc Honours Psychology",
+    "code": "HPSYCH",
+    "department_id": 184
+  },
+  {
+    "id": 261,
+    "name": "BSc Honours Public Health",
+    "code": "HPUBH",
+    "department_id": 175
+  },
+  {
+    "id": 193,
+    "name": "BSc Honours Public Relations and Marketing",
+    "code": "HPRM",
+    "department_id": 150
+  },
+  {
+    "id": 178,
+    "name": "BSc Honours Public Sector Accounting and Finance",
+    "code": "HPSACCF",
+    "department_id": 149
+  },
+  {
+    "id": 243,
+    "name": "BSc Honours Quantity Surveying",
+    "code": "HQS",
+    "department_id": 163
+  },
+  {
+    "id": 259,
+    "name": "BSc Honours Radiation Therapy",
+    "code": "HRADTHER",
+    "department_id": 166
+  },
+  {
+    "id": 355,
+    "name": "BSc Honours Radiography (Diagnosis)",
+    "code": "HRD",
+    "department_id": 171
+  },
+  {
+    "id": 365,
+    "name": "BSc Honours Radiology Therapy",
+    "code": "HRT",
+    "department_id": 171
+  },
+  {
+    "id": 146,
+    "name": "BSc Honours Rangeland Science and Livestock Production Ecology",
+    "code": "HRSLPE",
+    "department_id": 138
+  },
+  {
+    "id": 302,
+    "name": "BSc Honours Records and Archives Management",
+    "code": "HRECMGT",
+    "department_id": 187
+  },
+  {
+    "id": 2795,
+    "name": "BSc Honours Smart Technology Applications and Community Development",
+    "code": "BSTACD",
+    "department_id": 185
+  },
+  {
+    "id": 2725,
+    "name": "BSc Honours Social Innovation and Community Development",
+    "code": "BSCID",
+    "department_id": 185
+  },
+  {
+    "id": 299,
+    "name": "BSc Honours Social Work",
+    "code": "HSW",
+    "department_id": 185
+  },
+  {
+    "id": 296,
+    "name": "BSc Honours Sociology",
+    "code": "HISO",
+    "department_id": 185
+  },
+  {
+    "id": 204,
+    "name": "BSc Honours Software Engineering",
+    "code": "HSE",
+    "department_id": 153
+  },
+  {
+    "id": 148,
+    "name": "BSc Honours Soil Science and Land Management",
+    "code": "HSSLM",
+    "department_id": 139
+  },
+  {
+    "id": 2263,
+    "name": "BSc Honours Space Science and Technology",
+    "code": "HSST",
+    "department_id": 181
+  },
+  {
+    "id": 252,
+    "name": "BSc Honours Speech and Language Therapy",
+    "code": "HSLT",
+    "department_id": 167
+  },
+  {
+    "id": 289,
+    "name": "BSc Honours Statistics",
+    "code": "HSTAT",
+    "department_id": 182
+  },
+  {
+    "id": 194,
+    "name": "BSc Honours Supply Chain Management",
+    "code": "HSCM",
+    "department_id": 150
+  },
+  {
+    "id": 2938,
+    "name": "BSc Honours Urbanisation and Social Amenities Development",
+    "code": "HUD",
+    "department_id": 185
+  },
+  {
+    "id": 137,
+    "name": "BSc Honours Value Chain Development and Agricultural Marketing",
+    "code": "HVCDAM",
+    "department_id": 140
+  },
+  {
+    "id": 3713,
+    "name": "BSc Honours Veterinary Bioengineering",
+    "code": "HVSB",
+    "department_id": 190
+  },
+  {
+    "id": 307,
+    "name": "BSc Honours Veterinary Science (Basic Animal Health)",
+    "code": "HVSBA",
+    "department_id": 190
+  },
+  {
+    "id": 309,
+    "name": "BSc Honours Veterinary Science (Poultry)",
+    "code": "HVSP",
+    "department_id": 190
+  },
+  {
+    "id": 308,
+    "name": "BSc Honours Veterinary Science (Tropical Animal Health)",
+    "code": "HVSTA",
+    "department_id": 190
+  },
+  {
+    "id": 3796,
+    "name": "BSc Honours Veterinary Science Technology",
+    "code": "HVST",
+    "department_id": 190
+  },
+  {
+    "id": 3880,
+    "name": "BSc Honours Veterinary Science Therapeutics",
+    "code": "HVSP",
+    "department_id": 190
+  },
+  {
+    "id": 149,
+    "name": "BSc Honours Water and Waste Management Systems",
+    "code": "HWWMS",
+    "department_id": 139
+  },
+  {
+    "id": 155,
+    "name": "BSc Honours Water Resources and Irrigation Engineering",
+    "code": "HWRIE",
+    "department_id": 139
+  },
+  {
+    "id": 871,
+    "name": "BSc Industrial Engineering",
+    "code": "HENIND",
+    "department_id": 159
+  },
+  {
+    "id": 346,
+    "name": "BSc Medical Laboratory Sciences",
+    "code": "HBMLS",
+    "department_id": 170
+  },
+  {
+    "id": 388,
+    "name": "BSc Occupational Therapy",
+    "code": "HOT",
+    "department_id": 167
+  },
+  {
+    "id": 331,
+    "name": "BSc Physiotherapy Honours",
+    "code": "HPT",
+    "department_id": 167
+  },
+  {
+    "id": 1130,
+    "name": "Geomatics Engineering (Geoinformatics)",
+    "code": "HGEG",
+    "department_id": 163
+  },
+  {
+    "id": 1171,
+    "name": "Geomatics Engineering (Surveying)",
+    "code": "HGES",
+    "department_id": 163
+  },
+  {
+    "id": 1213,
+    "name": "Land Administration and Management",
+    "code": "HLAM",
+    "department_id": 163
+  },
+  {
+    "id": 244,
+    "name": "LLB Honours",
+    "code": "LLBS",
+    "department_id": 165
+  },
+  {
+    "id": 245,
+    "name": "LLB Honours (Social Sciences)",
+    "code": "LLBSS",
+    "department_id": 165
+  },
+  {
+    "id": 246,
+    "name": "MBChB",
+    "code": "MBCHB",
+    "department_id": 175
+  },
+  {
+    "id": 1345,
+    "name": "Real Estate",
+    "code": "HRE",
+    "department_id": 163
+  },
+  {
+    "id": 1256,
+    "name": "Spatial Planning and Management",
+    "code": "HSPM",
+    "department_id": 163
+  },
+  {
+    "id": 1300,
+    "name": "Transport Systems Development",
+    "code": "HTSD",
+    "department_id": 163
+  }
+]
